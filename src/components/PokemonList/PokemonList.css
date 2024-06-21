@@ -11,9 +11,9 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
-.controls{
+/* .controls{
     margin-top: 3rem;
-}
+} */
 .controls button{
     padding: 0.5rem 1rem 0.5rem 1rem;
     margin-left: 1rem ;
